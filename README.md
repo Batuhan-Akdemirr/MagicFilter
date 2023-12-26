@@ -1,4 +1,4 @@
-# FilterMagic
+# MagicFilter
 A simple and user-friendly photo filtering application developed using SwiftUI and Core Image. Enriched with features for selecting, filtering, and sharing visual content. Offers five different filter options.
 
 ## Screenshots
